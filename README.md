@@ -1,7 +1,8 @@
 
-# Weather website 
 
-**Weather website** is a responsive and user-friendly web application that provides real-time weather updates for any location. Built with a focus on simplicity and functionality, the app fetches accurate weather data using an API and presents it in an intuitive interface.  
+# Weather website  
+
+**Weather website** is a responsive and user-friendly web application that provides real-time weather updates for any location. Built with a focus on simplicity and functionality, the app fetches accurate weather data using an external API and presents it in an intuitive interface.  
 
 ## Features  
 
@@ -23,8 +24,8 @@
 - **HTML5**: For structuring the content of the application.  
 - **CSS3**: For styling, animations, and responsive layouts.  
 - **JavaScript**: For fetching weather data and handling user interactions.  
-- **Weather API**: To fetch accurate and real-time weather data.  
-   
+- **[Weather API](https://www.weatherapi.com/)**: To fetch accurate and real-time weather data.  
+  
 
 ## Live Demo  
 
@@ -47,4 +48,8 @@ Explore the Weather App here: [Weather App](https://project-weather-website.netl
    cd weather-app  
    ```  
 3. Open the `index.html` file in your browser to run the app locally.  
+
+## API Integration  
+
+This application utilizes the **[Weather API](https://www.weatherapi.com/)** to fetch real-time weather data. You can sign up for a free API key on their website to customize or extend the app.  
 
